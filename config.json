@@ -1,0 +1,8 @@
+ {
+   "data_url": "https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv",
+   "test_size": 0.2,
+   "random_state": 42,
+   "features": ["Pclass","Sex","Age","Fare","FamilySize","IsAlone","Embarked"],
+   "target": "Survived",
+   "output_dir": "outputs"
+ }
