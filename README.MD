@@ -1,11 +1,13 @@
-# ML Journey
-36-week road from frontend engineer to ML engineer.
+# ML Journey 🚀
+Software engineer → ML engineer. 36 weeks.
 
-## Week 1 — Titanic EDA
-- Loaded and cleaned the Titanic dataset (891 rows, 12 columns)
-- Handled 177 missing age values
-- Survival rate: 74% women vs 19% of men survived
-- Built 5 charts: bar, histogram, heatmap, boxplot, countplot
+## Progress
+- [x] Week 1 — Titanic EDA · NumPy · Pandas · 5 charts
+- [x] Week 2 — Feature engineering · merge · groupby · advanced Seaborn
+- [ ] Week 3 — Python for ML · OOP · type hints
+- [ ] Week 4 — Linear algebra
+- [ ] Week 5 — Statistics & probability
+- [ ] Week 6 — First ML model
 
 ## Stack
 Python · NumPy · Pandas · Matplotlib · Seaborn
