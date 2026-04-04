@@ -6,7 +6,7 @@ Software engineer → ML engineer. 36 weeks.
 - [x] Week 2 — Feature engineering · merge · groupby · advanced Seaborn
 - [x] Week 3 — Python for ML · OOP · type hints
 - [x] Week 4 — Linear algebra
-- [ ] Week 5 — Statistics & probability
+- [x] Week 5 — Statistics & probability
 - [ ] Week 6 — First ML model
 
 ## Stack
