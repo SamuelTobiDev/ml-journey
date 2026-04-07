@@ -7,7 +7,8 @@ Software engineer → ML engineer. 36 weeks.
 - [x] Week 3 — Python for ML · OOP · type hints
 - [x] Week 4 — Linear algebra
 - [x] Week 5 — Statistics & probability
-- [x] Week 6 — First ML model (Titanic Logistic Regression Model with a 81% accuracy)
+- [x] Week 6 — First ML model · logistic regression · 81% accuracy · 
+      confusion matrix · feature weights · Jack=12% Rose=95%
 - [ ] Week 7 — XG Boost
 
 ## Stack
