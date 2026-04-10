@@ -10,6 +10,7 @@ Software engineer → ML engineer. 36 weeks.
 - [x] Week 6 — First ML model · logistic regression · 81% accuracy · 
       confusion matrix · feature weights · Jack=12% Rose=95%
 - [x] Week 7 — Decision trees · Random Forest · XGBoost · Title feature ·
+- [x] Week 8  — Feature engineering · Kaggle 0.12964 · top 25%
 
 ---
 
