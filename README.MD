@@ -11,6 +11,9 @@ Software engineer → ML engineer. 36 weeks.
       confusion matrix · feature weights · Jack=12% Rose=95%
 - [x] Week 7 — Decision trees · Random Forest · XGBoost · Title feature ·
 - [x] Week 8  — Feature engineering · Kaggle 0.12964 · top 25%
+- [x] Week 9 — Ridge · Lasso · ElasticNet · regularisation · 
+      feature selection · XGBoost best CV RMSE 0.1244 · 
+      Lasso auto-selected 66 of 265 features
 
 ---
 
