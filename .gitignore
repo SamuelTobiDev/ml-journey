@@ -1,5 +1,5 @@
 venv/
-outputs/
+outputs/*.pkl
 __pycache__/
 *.pyc
 .DS_Store
