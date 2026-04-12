@@ -14,6 +14,10 @@ Software engineer → ML engineer. 36 weeks.
 - [x] Week 9 — Ridge · Lasso · ElasticNet · regularisation · 
       feature selection · XGBoost best CV RMSE 0.1244 · 
       Lasso auto-selected 66 of 265 features
+       — Bike Sharing Demand · datetime feature engineering · 
+      interaction features · TimeSeriesSplit CV · XGBoost regression · 
+      CV RMSLE 0.393 · Kaggle score 0.38387
+
 
 ---
 
